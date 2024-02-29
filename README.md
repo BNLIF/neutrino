@@ -1,4 +1,4 @@
-This is the repo for the [BNL Neutrino homepage](https://bnlif.github.io/neutrino/). Anyone in the [BNLIF](https://github.com/BNLIF) organization can edit the repo. To become a member, contact any [existing owners](https://github.com/orgs/BNLIF/people?query=role%3Aowner).
+This is the repo for the [BNL Neutrino homepage](https://neutrino.bnl.gov/). Anyone in the [BNLIF](https://github.com/BNLIF) organization can edit the repo. To become a member, contact any [existing owners](https://github.com/orgs/BNLIF/people?query=role%3Aowner).
 
 ## Edit the pages
 
