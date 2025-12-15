@@ -1,5 +1,5 @@
-url: https://neutrino.bnl.gov/
-baseurl: '' 
+url: https://www.phy.bnl.gov
+baseurl: /neutrino 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
